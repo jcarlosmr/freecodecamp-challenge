@@ -1,0 +1,12 @@
+{
+  "name": "00-managing-package",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Juan Carlos Mendoza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
